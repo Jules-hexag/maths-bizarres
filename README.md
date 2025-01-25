@@ -5,5 +5,7 @@ En gros j'avais deux courbes, l'une linéaire et l'autre exponentielle pour qui 
 Voilà mon brouillon c'est plus simple.</br>
 
 ![La feuille](la_feuille.jpg)
+Exemple sur Geogebra</br>
+![Geogebra](geogebra.png)
 
 Sur la feuille j'utilise 2 comme valeur de delta.
